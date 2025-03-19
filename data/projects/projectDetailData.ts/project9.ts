@@ -14,8 +14,8 @@ export const project9 = {
   path: "portfolio-site",
   featured: true,
   stacks: ["nextjs", "typescript", "tailwindcss", "vercel"],
-  githubUrl: "https://github.com/eeeyooon/portfolio",
+  githubUrl: "https://github.com/ClaireJung-A/portfolio/",
   docsUrl: "",
-  serviceUrl: "https://portfolio-eeeyooon.vercel.app/",
-  images: 1,
+  serviceUrl: "",
+  images: 3,
 };
