@@ -9,28 +9,28 @@ const techStack = [
   {
     category: "Language",
     technologies: [
-      { name: "Python", src: "/images/tech/language/python.png" },
-      { name: "C++", src: "/images/tech/language/cpp.png" },
-      { name: "TypeScript", src: "/images/tech/language/typescript.png" },
-      { name: "SQL", src: "/images/tech/language/sql.png"},
+      { name: "Python", src: "/images/tech/language/Python.svg" },
+      { name: "C++", src: "/images/tech/language/cpp.svg" },
+      { name: "TypeScript", src: "/images/tech/language/TypeScript.svg" },
+      { name: "SQL", src: "/images/tech/language/sql.svg"},
     ],
   },
   {
     category: "Frontend",
     technologies: [
-      { name: "React", src: "/images/tech/frontend/react.png" },
-      { name: "Next.js", src: "/images/tech/frontend/Next.js.png" },
-      { name: "HTML5", src: "/images/tech/frontend/HTML5.png" },
-      { name: "Tailwind CSS", src: "/images/tech/frontend/css.png" },
+      { name: "React", src: "/images/tech/frontend/React.svg" },
+      { name: "Next.js", src: "/images/tech/frontend/Next.js.svg" },
+      { name: "HTML5", src: "/images/tech/frontend/HTML5.svg" },
+      { name: "Tailwind CSS", src: "/images/tech/frontend/css.svg" },
     ],
   },
   {
     category: "Backend",
     technologies: [
-      { name: "Node.js", src: "/images/tech/backend/Node.js.png" },
-      { name: "Express.js", src: "/images/tech/backend/express.png" },
-      { name: "Flask", src: "/images/tech/backend/flask.png" },
-      { name: "FastAPI", src: "/images/tech/backend/fastapi.png" },
+      { name: "Node.js", src: "/images/tech/backend/Node.js.svg" },
+      { name: "Express.js", src: "/images/tech/backend/Express.svg" },
+      { name: "Flask", src: "/images/tech/backend/Flask.svg" },
+      { name: "FastAPI", src: "/images/tech/backend/FastAPI.svg" },
     ],
   },
 ]; 
@@ -39,20 +39,20 @@ const bottomTechStack = [
   {
     category: "Databases",
     technologies: [
-      { name: "PostgreSQL", src: "/images/tech/database/postgresql.png" },
-      { name: "MySQL", src: "/images/tech/database/mysql.png" },
-      { name: "Elastic Search", src: "/images/tech/database/ElasticSearch.png" },
-      { name: "Firebase", src: "/images/tech/database/firebase.png" },
-      { name: "Redis", src: "/images/tech/database/redis.png" },
+      { name: "PostgreSQL", src: "/images/tech/database/postgresql.svg" },
+      { name: "MySQL", src: "/images/tech/database/MySQL.svg" },
+      { name: "Elastic Search", src: "/images/tech/database/ElasticSearch.svg" },
+      { name: "Firebase", src: "/images/tech/database/Firebase.svg" },
+      { name: "Redis", src: "/images/tech/database/Redis.svg" },
     ],
   },
   {
     category: "Cloud & DevOps",
     technologies: [
-      { name: "AWS", src: "/images/tech/Cloud&Devops/AWS.png" },
-      { name: "Azure", src: "/images/tech/Cloud&Devops/Azure.png" },
-      { name: "Docker", src: "/images/tech/Cloud&Devops/Docker.png" },
-      { name: "GitHub", src: "/images/tech/Cloud&Devops/GitHub.png" }
+      { name: "AWS", src: "/images/tech/Cloud&Devops/AWS.svg" },
+      { name: "Azure", src: "/images/tech/Cloud&Devops/Azure.svg" },
+      { name: "Docker", src: "/images/tech/Cloud&Devops/Docker.svg" },
+      { name: "GitHub", src: "/images/tech/Cloud&Devops/GitHub.svg" }
     ],
   },
 ];
