@@ -94,7 +94,7 @@ export default function TechStackPage() {
               </h3>
               <div className="flex flex-wrap justify-center gap-4">
                 {category.technologies.map((tech) => (
-                  <div key={tech.name} className="flex flex-col items-center">
+                  <div key={tech.name} className="h-fit flex flex-col items-center">
                     <Image
                       src={tech.src}
                       alt={tech.name}
