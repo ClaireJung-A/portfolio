@@ -17,5 +17,5 @@ export const project9 = {
   githubUrl: "https://github.com/eeeyooon/portfolio",
   docsUrl: "",
   serviceUrl: "https://portfolio-eeeyooon.vercel.app/",
-  images: 4,
+  images: 1,
 };
