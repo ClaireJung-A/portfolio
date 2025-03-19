@@ -18,7 +18,7 @@ const techStack = [
   {
     category: "Frontend",
     technologies: [
-      { name: "React", src: "/images/tech/frontend/React.svg" },
+      { name: "React", src: "/images/tech/frontend/React11.svg" },
       { name: "Next.js", src: "/images/tech/frontend/Next.js.svg" },
       { name: "HTML5", src: "/images/tech/frontend/HTML5.svg" },
       { name: "Tailwind CSS", src: "/images/tech/frontend/css.svg" },
@@ -71,7 +71,7 @@ export default function TechStackPage() {
               </h3>
               <div className="flex flex-wrap justify-center gap-4">
                 {category.technologies.map((tech) => (
-                  <div key={tech.name} className="flex flex-col items-center">
+                  <div key={tech.name} className="h-fit flex flex-col items-center">
                     <Image
                       src={tech.src}
                       alt={tech.name}

@@ -40,7 +40,7 @@ export const project1 = {
   category: ["Personal"],
   path: "instagram-clone",
   featured: true,
-  stacks: ["React", "nextjs", "typescript", "tailwindcss", "firebase", "redux"],
+  stacks: ["react", "nextjs", "typescript", "tailwindcss", "firebase", "redux"],
   githubUrl: "https://github.com/ClaireJung-A/instagram-clone",
   docsUrl: "",
   serviceUrl: "",
