@@ -9,9 +9,9 @@ const techStack = [
   {
     category: "Language",
     technologies: [
-      { name: "Python", src: "/images/tech/language/Python.svg" },
+      { name: "Python", src: "/images/tech/language/Python11.svg" },
       { name: "C++", src: "/images/tech/language/cpp.svg" },
-      { name: "TypeScript", src: "/images/tech/language/TypeScript.svg" },
+      { name: "TypeScript", src: "/images/tech/language/TypeScript11.svg" },
       { name: "SQL", src: "/images/tech/language/sql.svg"},
     ],
   },
@@ -40,7 +40,7 @@ const bottomTechStack = [
     category: "Databases",
     technologies: [
       { name: "PostgreSQL", src: "/images/tech/database/postgresql.svg" },
-      { name: "MySQL", src: "/images/tech/database/MySQL.svg" },
+      { name: "MySQL", src: "/images/tech/database/MySQL11.svg" },
       { name: "Elastic Search", src: "/images/tech/database/ElasticSearch.svg" },
       { name: "Firebase", src: "/images/tech/database/Firebase.svg" },
       { name: "Redis", src: "/images/tech/database/Redis.svg" },
