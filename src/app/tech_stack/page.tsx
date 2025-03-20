@@ -49,10 +49,11 @@ const bottomTechStack = [
   {
     category: "Cloud & DevOps",
     technologies: [
-      { name: "AWS", src: "/images/tech/Cloud&Devops/AWS.svg" },
+      { name: "Amazon S3", src: "/images/tech/Cloud&Devops/s3.svg" },
       { name: "Azure", src: "/images/tech/Cloud&Devops/Azure.svg" },
       { name: "Docker", src: "/images/tech/Cloud&Devops/Docker.svg" },
-      { name: "GitHub", src: "/images/tech/Cloud&Devops/GitHub.svg" }
+      { name: "Kubernetes", src: "/images/tech/Cloud&Devops/Kubernetes.svg" },
+      { name: "GitHub", src: "/images/tech/Cloud&Devops/GitHub.svg" },
     ],
   },
 ];

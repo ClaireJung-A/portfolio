@@ -12,7 +12,7 @@ export const project2 = {
     "Used `redux-persist` to store the Redux-managed state in local storage, ensuring that the selected difficulty level remains even after refreshing the page.",
   ],
   startDate: "2023-12-07",
-  endDate: "2023-12-11",
+  endDate: "2023-12-16",
   category: ["Personal"],
   path: "minesweeper-game",
   featured: false,

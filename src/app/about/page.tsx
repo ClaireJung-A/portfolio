@@ -18,7 +18,7 @@ export default function AboutPage() {
   const [showInitialMessage, setShowInitialMessage] = useState(true);
   const controls = useAnimation();
 
-  const onBoardText = useTypeword("I find joy in what I do.", 45);
+  const onBoardText = useTypeword("Building with intention, improving with passion.", 45);
 
   useEffect(() => {
     document.body.style.overflow = "hidden";

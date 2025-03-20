@@ -8,7 +8,7 @@ export const project9 = {
     "Implemented a simple email feature where users can send an email by entering only the recipient, subject, and message.",
     "Designed a responsive web layout to ensure seamless rendering across different devices and screen sizes.",
   ],
-  startDate: "2023-11-09",
+  startDate: "2025-03-12",
   endDate: "Ongoing",
   category: ["Personal"],
   path: "portfolio-site",
